@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1648716763 source:d:\work\freelancer\learning\c and embedded c programming language\project\flight booking system\main.c
+	"header.h"
+
+1648723323 d:\work\freelancer\learning\c and embedded c programming language\project\flight booking system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"client.h"
+	"doubly.h"
+
+1648722714 source:d:\work\freelancer\learning\c and embedded c programming language\project\flight booking system\fun.c
+	"header.h"
+
+1648042728 d:\work\freelancer\learning\c and embedded c programming language\project\flight booking system\structs.h
+
+1648678378 d:\work\freelancer\learning\c and embedded c programming language\project\flight booking system\client.h
+	"header.h"
+
+1648667576 d:\work\freelancer\learning\c and embedded c programming language\project\flight booking system\doubly.h
+	"header.h"
+
+1648722871 source:d:\work\freelancer\learning\c and embedded c programming language\project\flight booking system\client.c
+	"header.h"
+
